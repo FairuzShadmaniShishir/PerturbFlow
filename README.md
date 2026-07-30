@@ -5,9 +5,7 @@ given perturbation?" Here, "what happens" means a change in gene expression, and
 gene, encodes the control cell's expression state, and predicts the resulting
 perturbed expression profile.
 
-⚠️ This is an educational project. It illustrates the main steps of building a virtual
-cell - it is not a competitive perturbation-response model. The point is to understand
-the ideas and have a base to play with and improve.
+for the data preparation: https://youtu.be/FuMPJQbLVEk
 
 ## How it works
 
