@@ -5,7 +5,7 @@ given perturbation?" Here, "what happens" means a change in gene expression, and
 gene, encodes the control cell's expression state, and predicts the resulting
 perturbed expression profile.
 
-for the data preparation: https://youtu.be/FuMPJQbLVEk
+## For the data preparation: https://youtu.be/FuMPJQbLVEk
 
 ## How it works
 
